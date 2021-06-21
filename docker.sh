@@ -1,3 +1,3 @@
 #!/bin/bash
 DOCKER=devopsjana@434
-this is docker credential$DOCKER
+echo this is docker pwd$DOCKER
